@@ -12,5 +12,7 @@
             "extensionName": ".css",
             "savePath": "./src/css/"
         }
-    ]
+    ],
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\git-bash.exe"
 }
